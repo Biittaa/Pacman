@@ -55,13 +55,3 @@ python autograder.py -q q3  # UCS
 python autograder.py -q q4  # A*
 python autograder.py -q q5  # Corners Problem
 ```
-
-## 📌 Notes
-- Use data structures from `util.py` (e.g., Stack, Queue, PriorityQueue).
-- Implement **graph search**, not tree search.
-- Heuristics must be efficient and not rely on the full GameState.
-
----
-
-**Author:** [Your Name]  
-AI Course Project – 2025
